@@ -18,9 +18,9 @@ Este projeto apresenta um **Dashboard de Vendas** desenvolvido no Excel, com dad
 ## 📷 Capturas de Tela
 _Abaixo estão algumas imagens do dashboard:_
 
-![Dashboard Overview]([coloque_o_nome_do_arquivo_aqui.png]([[))))
+![Dashboard Overview](https://github.com/andrewgabr/DashBoard_vendas/blob/master/imgs/query.png?raw=true)
 
-![Gráficos de Desempenho](https://github.com/andrewgabr/DashBoard_vendas/blob/master/imgs/dash.png?raw=true)
+![Querys utilizadas](https://github.com/andrewgabr/DashBoard_vendas/blob/master/imgs/dash.png?raw=true)
 
 ## 🚀 Como Usar
 1. Clone este repositório:
