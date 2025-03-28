@@ -18,9 +18,9 @@ Este projeto apresenta um **Dashboard de Vendas** desenvolvido no Excel, com dad
 ## 📷 Capturas de Tela
 _Abaixo estão algumas imagens do dashboard:_
 
-![Dashboard Overview]([coloque_o_nome_do_arquivo_aqui.png]([https://private-user-images.githubusercontent.com/25442354/427788624-1df4fefd-84d5-4ca1-9e3f-102956ba9a89.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDMxMTk3MjksIm5iZiI6MTc0MzExOTQyOSwicGF0aCI6Ii8yNTQ0MjM1NC80Mjc3ODg2MjQtMWRmNGZlZmQtODRkNS00Y2ExLTllM2YtMTAyOTU2YmE5YTg5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzI3VDIzNTAyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRlZWQ2NzExMDAwZTA5M2U4NWVlZGE1ZWRkZmUzNzIxOWY3YjA5MGIzOTRhNTk0OTFlMGQ1ZmVjZWUzZDNkZTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jJ6iINVK1dsWtNhJVlGrcyeg33bnM2DNNRwOr2_wfwk](https://github.com/andrewgabr/DashBoard_vendas/blob/master/imgs/dash.png)))
+![Dashboard Overview]([coloque_o_nome_do_arquivo_aqui.png]([[))))
 
-![Gráficos de Desempenho](coloque_o_nome_do_arquivo_aqui.png)
+![Gráficos de Desempenho](https://github.com/andrewgabr/DashBoard_vendas/blob/master/imgs/dash.png?raw=true)
 
 ## 🚀 Como Usar
 1. Clone este repositório:
