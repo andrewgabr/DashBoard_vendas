@@ -1,4 +1,4 @@
-# Dashboard de Vendas no Excel com Dados do SQL Server
+# Dashboard de Vendas no Excel com Dados do SQL 
 
 ## 📊 Visão Geral
 Este projeto apresenta um **Dashboard de Vendas** desenvolvido no Excel, com dados extraídos diretamente de um banco de dados SQL Server. O objetivo é facilitar a análise de desempenho de vendas, proporcionando insights estratégicos de forma dinâmica e visual.
