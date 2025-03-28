@@ -20,6 +20,7 @@ _Abaixo estão algumas imagens do dashboard:_
 
 ![Dashboard Overview](https://github.com/andrewgabr/DashBoard_vendas/blob/master/imgs/query.png?raw=true)
 
+_Querys utilizadas:_
 ![Querys utilizadas](https://github.com/andrewgabr/DashBoard_vendas/blob/master/imgs/dash.png?raw=true)
 
 ## 🚀 Como Usar
@@ -36,23 +37,8 @@ _Abaixo estão algumas imagens do dashboard:_
 /
 ├── Dashboard.xlsx  # Arquivo Excel com os gráficos
 ├── Query.sql       # Script SQL para extração dos dados
+├── IMG             # Imanges
 ├── README.md       # Documentação do projeto
 ```
 
-## 📎 Como Adicionar as Imagens no GitHub
-1. Faça o upload das imagens na seção "Issues" ou em uma pasta no repositório.
-2. Copie o link da imagem e substitua em:
-   ```markdown
-   ![Descrição da imagem](URL_da_imagem)
-   ```
-   ou, se a imagem estiver no repositório:
-   ```markdown
-   ![Descrição da imagem](caminho/para/imagem.png)
-   ```
-
-## 📧 Contato
-Se tiver dúvidas ou sugestões, entre em contato!
-
-📩 Email: [seuemail@example.com](mailto:seuemail@example.com)
-📌 LinkedIn: [seuLinkedIn](https://linkedin.com/in/seuperfil)
 
